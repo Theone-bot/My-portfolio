@@ -1,7 +1,7 @@
 /* here I'm color to the back-ground and font. Aligning text to center of the page. added padding and margnin to space out. */
 header {
   color: #1c2c33;
-  background-color: #6a8f9e;
+  background-color: #435f6b;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   padding: 1px;
@@ -9,8 +9,7 @@ header {
 }
 /* used margin to center image */
 img {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 750px;
 }
 /* colored the background */
 body{
@@ -25,9 +24,8 @@ h3 {
 }
 /* bolder lines shortend the length*/
 hr {
-  margin-left: 500px;
   border:3px solid black;
-  width: 500px
+  margin:0px
 }
 /* added font size, font style, font color, margin all the way around */
 main article section p, main article section li, footer li {
@@ -38,6 +36,6 @@ main article section p, main article section li, footer li {
 }
 
 footer {
-  background-color: #6a8f9e;
-  padding: 3px;
+  background-color: #365663;;
+  padding: 8px
 }
