@@ -10,7 +10,6 @@ header {
 /* used margin to center image */
 img {
   height: 400px;
-  padding: 10px 10px;
 }
 /* select class, margin auto to center, display as block*/
 .center {
