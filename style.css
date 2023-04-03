@@ -8,7 +8,7 @@ header {
   border: 4px solid black;
 }
 /* used margin to center image */
-img {
+div img {
   height: 800px;
 }
 /* select class, margin auto to center, display as block*/
