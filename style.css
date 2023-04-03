@@ -9,8 +9,15 @@ header {
 }
 /* used margin to center image */
 img {
-  margin-left: 750px;
+  height: 400px;
 }
+/* select class, margin auto to center, display as block*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* colored the background */
 body{
   background-color: #c0d5f2;
@@ -28,11 +35,12 @@ hr {
   margin:0px
 }
 /* added font size, font style, font color, margin all the way around */
-main article section p, main article section li, footer li {
+main article p, main article li, footer li {
   font-size: 17px;
   font-family: Helvetica, sans-serif, Fantasy;
   color: #737270;
-  margin: 5px 20px 5px 20px; 
+  margin-left: 100px; 
+  margin-right: 100px;
 }
 
 footer {
